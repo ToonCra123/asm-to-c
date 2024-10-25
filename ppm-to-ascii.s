@@ -1,14 +1,3 @@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@
-@ Original author: Gordon Griesel
-@ Date:            Fall 2024
-@ Purpose:         Open and read a file
-@                  If a valid PPM file, display image information.
-@
-@ Usage: ./lab8            <---- will default to filename stored in fname:
-@        ./lab8 some.ppm   <---- will process some.ppm file
-@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @
 @   Registers: 
 @       r0: function argument and return value
