@@ -8,3 +8,12 @@ Hello, I am your average computer science student doing low level things. This i
 ./ppm-to-ascii <file-name>
 ```
 if no file-name is provided then it will default to csub.ppm, which then you will probably get an error or something idk. Have Fun
+
+## PREREQUISITES
+
+must have arm-gnueabi-as/ld
+
+```bash
+sudo apt update
+sudo apt install libc6-armel-cross libc6-dev-armel-cross binutils-arm-linux-gnueabi libncurses5-dev build-essential bison flex libssl-dev bc
+```
